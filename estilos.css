@@ -1,0 +1,37 @@
+*{
+    font-family: Tahoma;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:  mediumpurple;
+
+}
+.tittle{
+    padding: 30px;
+    
+    background: #11294d;
+    color: #fff;
+    text-align: center;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+header .j a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #183664;
+    color: #fff;
+}
+p{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.image{
+    display: flex;
+}
+.image img{
+    margin: 10px;
+    border-radius: 4px;
+}
